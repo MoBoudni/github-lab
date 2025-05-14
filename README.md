@@ -1,2 +1,2 @@
 # GitHub Lab
-I am a colaborator, this is collaborator update.
+I am a collaborator, this is collaborator update.
